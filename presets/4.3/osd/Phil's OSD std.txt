@@ -1,0 +1,46 @@
+#$ TITLE: Phil's standard OSD for 3-5" Quads
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: OSD
+#$ AUTHOR: Sean Gordon
+#$ DESCRIPTION: Standard OSD settings for 3-5" Quads
+
+
+set osd_warn_batt_not_full = OFF
+set osd_warn_batt_warning = OFF
+set osd_warn_batt_critical = OFF
+set osd_warn_visual_beeper = OFF
+set osd_warn_core_temp = OFF
+set osd_warn_fail_safe = OFF
+set osd_warn_launch_control = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_link_quality = ON
+set osd_warn_rssi_dbm = ON
+set osd_link_quality_alarm = 70
+set osd_rssi_dbm_alarm = -100
+set osd_cap_alarm = 1200
+set osd_vbat_pos = 2433
+set osd_rssi_pos = 402
+set osd_link_quality_pos = 2273
+set osd_link_tx_power_pos = 2337
+set osd_rssi_dbm_pos = 2305
+set osd_tim_2_pos = 2455
+set osd_flymode_pos = 2073
+set osd_throttle_pos = 2401
+set osd_vtx_channel_pos = 2049
+set osd_current_pos = 365
+set osd_mah_drawn_pos = 2407
+set osd_craft_name_pos = 2060
+set osd_gps_speed_pos = 2177
+set osd_gps_sats_pos = 2113
+set osd_home_dir_pos = 2209
+set osd_home_dist_pos = 2145
+set osd_warnings_pos = 14634
+set osd_avg_cell_voltage_pos = 2440
+set osd_disarmed_pos = 2421
+set osd_stat_max_dist = ON
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
+set osd_stat_min_link_quality = ON
+set osd_stat_max_fft = ON
