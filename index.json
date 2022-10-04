@@ -163,6 +163,7 @@
       "mode",
       "modes",
       "OSD",
+      "Phoenix",
       "pid",
       "rates",
       "RC",
@@ -342,6 +343,22 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/vtx/Phil's TBS Unify Pro 5G8 HV.txt",
+      "hash": "19f1a5df5341212e82a10a4333fff62b3fe442594ff3b060f443e09c9f8ab4f8",
+      "title": "TBS Unify Pro 5G8 HV",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "vtx",
+        "Phoenix"
+      ],
+      "author": "Sean Gordon",
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/defaults.txt",
